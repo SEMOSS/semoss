@@ -47,3 +47,11 @@ Make sure to follow these steps before submitting your issue - thank you!
 ### Additional context
 
 Add any other context about the problem here.
+
+
+### Tasks
+
+A list of individual tasks / issues that need to be completed before the ticket is resolved
+
+- [ ]
+- [ ]
